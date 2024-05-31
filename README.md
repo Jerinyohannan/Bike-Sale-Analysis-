@@ -1,5 +1,6 @@
 # Bike-Sale-Analysis-
-Bike Sale Analysis DSML Excel Project Dashboard creation with the Data Set Bike_Sales_Data
+Bike Sale Analysis DSML Excel Project Dashboard creation with the Data Set Bike_Sales_Data.
+
 Bike-Sale-Data-Project.xlsx have the dataset used and Analysis and Dashboard Created.
 A Image of DashBoard Is also Uploaded with this.
 # DataSet Contains
